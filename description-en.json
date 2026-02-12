@@ -1,4 +1,5 @@
 {
+  "description": "Runs or reports trading performance calculations and emits strategy-level metrics for monitoring and evaluation.",
   "domainCategory": "Trading",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Performance Metrics",
-      "text": "Subjective datasource implementation for SubjectivePerformanceMetricsDataSource.",
+      "text": "Runs or reports trading performance calculations and emits strategy-level metrics for monitoring and evaluation.",
       "image": {
         "src": "/subjective_binance_performance_metrics_datasource/icon.svg",
         "alt": "Performance Metrics icon"
